@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramana krishnan
 - 🎓 Student of Computer Science with Data Analytics
-- 👀 I’m interested in Data Analytics and programming
+- 👀 I’m interested in Analyzing the data and programming
 - 🌱 I’m currently learning Machine learning
 - 📫 Contact me: ramanakrishnanv@gmail.com
 - 😄 Pronouns: he/him
