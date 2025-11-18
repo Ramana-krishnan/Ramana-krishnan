@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Ramana krishnan
-- 🎓 Student of Computer Science with Data Analytics
+- 🎓 Computer Science with Data Analytics Graduate
 - 👀 I’m interested in Analyzing the data and programming
 - 📫 Contact me: ramanakrishnanv@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love math
 
 # 💻 Tech Known:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
